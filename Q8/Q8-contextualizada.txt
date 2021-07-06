@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(){
+
+    int mat[4], *p, x;
+
+    printf ("p = mat + 1 --> %d",p = mat + 1 );//6422288 VÁLIDA// P recebe o endereço do segunda coluna do vetor 
+    //printf ("\np = mat` --> %d",p = mat` );//INVÁLIDA - O programa não compila pois há um carctere não declarado no caso o `.
+    //printf ("p = `mat + 1 --> %d",p = `mat ); //INVÁLIDA- A mesma situação.
+    //printf ("\nx = (*mat) --> %d", x = (*mat) );` // INVÁLIDA- Mesma situação.
+
+return 0;
+}

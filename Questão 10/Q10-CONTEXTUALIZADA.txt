@@ -1,0 +1,15 @@
+◦ x for declarado como char?
+  4093, 4094, 4095
+
+◦ x for declarado como int?
+  4094, 4096, 4098
+ 
+◦ x for declarado como float?
+  4096, 4100, 4104
+
+◦ x for declarado como double?
+  4100, 4108, 4116
+
+O que foi mostrado pelo programa foi que na verdade o vetor x como uma variável do tipo int
+ocupa 4 bytes de memória e não 2 como apresentado na questão.
+O código está disponível para acesso.

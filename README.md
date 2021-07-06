@@ -1,4 +1,4 @@
 # lista-ponteiros
 ## Componentes:
 ### Roosewelt Muniz Marinho Junior
-### Brenner 
+### Brenner dos Santos Araújo
